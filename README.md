@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">A Passionate Web Developer from Nepal</h3>
+<h2 align="center">A Passionate Web Developer from Nepal</h2>
 
 ![logo](https://github.com/charendra910/charendra910/blob/main/coding1.gif)
 
