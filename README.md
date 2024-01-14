@@ -6,7 +6,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-![image](https://github.com/charendra735/charendra735/assets/155763950/d28838d0-ad8f-4c5c-9eff-da71a671a869)
+![logo](https://github.com/charendra910/charendra910/blob/main/coding-freak.gif)
 
 <h3 align="center">A Passionate Web Developer from Nepal</h3>
 
