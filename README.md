@@ -1,10 +1,10 @@
-<h1 align="center" font-size="60">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,There!🙋;I'm+Harendra+Chaudhary;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-<h1 align="center">A Passionate Web Developer from Nepal</h1>
+<h2 align="center">A Passionate Web Developer from Nepal</h2>
 
 ![logo](https://github.com/charendra910/charendra910/blob/main/coding2.gif)
 
