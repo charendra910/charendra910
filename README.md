@@ -6,6 +6,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <h3 align="center">A Passionate Web Developer from Nepal</h3>
+
 ![logo](https://github.com/charendra910/charendra910/blob/main/coding1.gif)
 
 <img align="right" width="400" alt="coding" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
