@@ -21,7 +21,7 @@
 - 💬 Ask me about **Python,C#,PHP**
 
 - 📫 How to reach me **harendratharu0@gmail.com**
-- 
+  
 - ⚡ Fun fact **I am Funny😊**
 
 <h3 align="left">Connect with me:</h3>
