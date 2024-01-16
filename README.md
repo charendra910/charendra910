@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **RectJs, DSA, .Net Core MVC**
 
-- 👯 I’m looking to working on **.Net projects**
+- 👯 I’m looking to working on **Web projects**
 
 - 💬 Ask me about **Python,C#,PHP**
 
