@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently studying **Computer Engineering**
 
-- 🌱 I’m currently learning ** < a  href ="https://react.dev/learn" >RectJs </a>,DSA,.Net Core MVC**
+- 🌱 I’m currently learning **RectJs, DSA, .Net Core MVC**
 
 - 👯 I’m looking to working on **.Net projects**
 
