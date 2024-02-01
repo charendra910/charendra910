@@ -18,8 +18,6 @@
 
 - 👯 I’m looking to working on **Web projects**
 
-- 💬 Ask me about **Python,C#,PHP**
-
 - 📫 How to reach me **harendratharu0@gmail.com**
   
 - ⚡ Fun fact **I am Funny😊**
