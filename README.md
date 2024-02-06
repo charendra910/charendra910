@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h2 align="center">A Passionate Web Developer from Nepal <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlag_of_Nepal&psig=AOvVaw3YV2dkP0xT3vBG4zlmlhz8&ust=1707319997259000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiaweOEl4QDFQAAAAAdAAAAABAD"> </h2>
+<h2 align="center">A Passionate Web Developer from Nepal <img src = "https://en.wikipedia.org/wiki/Flag_of_Nepal#/media/File:Flag_of_Nepal.svg"> </h2>
 
 ![logo](https://github.com/charendra910/charendra910/blob/main/coding2.gif)
 
