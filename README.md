@@ -20,8 +20,7 @@
 
 - 📫 How to reach me **harendratharu0@gmail.com**
 
-- 📫 Visit me **
-harendraportfolio.000webhostapp.com**
+- 📫 Visit me <a href="https://harendraportfolio.000webhostapp.com/" /> qewr </a>
   
 - ⚡ Fun fact **I am Funny😊**
 
