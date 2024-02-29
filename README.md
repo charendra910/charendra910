@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **harendratharu0@gmail.com**
 
--  <a href="https://harendraportfolio.000webhostapp.com/" /> Visit my website here! </a>
+- 💼 <a href="https://harendraportfolio.000webhostapp.com/" /> Visit Me Here! </a>
   
 - ⚡ Fun fact **I am Funny😊**
 
