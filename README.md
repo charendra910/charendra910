@@ -29,9 +29,6 @@
 
 <div align="center">
 
-  ## GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=charendra910&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats"/>
-
   ## GitHub Streak
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charendra910" alt="GitHub Streak"/>
 
@@ -59,5 +56,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charendra910&show_icons=true&locale=en&layout=compact" alt="charendra910" /></p><br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charendra910&show_icons=true&locale=en" alt="charendra910" /></p>
 
 
