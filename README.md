@@ -24,6 +24,11 @@
 
 - 💼 <a href="https://harendraportfolio.000webhostapp.com/" /> Visit Me Here! </a>
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=charendra910)](https://github.com/charendra910)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
