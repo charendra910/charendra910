@@ -27,6 +27,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=charendra910)](https://github.com/charendra910)
 
+# Hi there! 👋
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charendra910&count_private=true&show_icons=true&hide_title=true)
+
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charendra910)
+
+## Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=charendra910)
 
 
 <h3 align="left">Connect with me:</h3>
