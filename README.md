@@ -27,13 +27,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=charendra910)](https://github.com/charendra910)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=charendra910&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <div align="center">
 
   ## GitHub Streak
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charendra910" alt="GitHub Streak"/>
-
-  ## Contribution Graph
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=charendra910" alt="Contribution Graph"/>
 
 </div>
 
