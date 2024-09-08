@@ -27,16 +27,19 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=charendra910)](https://github.com/charendra910)
 
-# Hi there! 👋
+<div align="center">
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charendra910&count_private=true&show_icons=true&hide_title=true)
+  ## GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=charendra910&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats"/>
 
-## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charendra910)
+  ## GitHub Streak
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charendra910" alt="GitHub Streak"/>
 
-## Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=charendra910)
+  ## Contribution Graph
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=charendra910" alt="Contribution Graph"/>
+
+</div>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -55,8 +58,6 @@
 <p><a href="https://www.starbucks.in/ordering"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harendratharu0" /></a></p><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charendra910&show_icons=true&locale=en&layout=compact" alt="charendra910" /></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charendra910&show_icons=true&locale=en" alt="charendra910" /></p>
 
 
 
