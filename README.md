@@ -24,7 +24,6 @@
 
 - 💼 <a href="https://harendraportfolio.000webhostapp.com/" /> Visit Me Here! </a>
   
-<hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=charendra910)](https://github.com/charendra910)
 
