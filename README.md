@@ -38,20 +38,19 @@
 </div>
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/harendratharu4" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harendratharu4" height="100" width="100" style="background-color:red; padding:10px; border-radius:5px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harendratharu4" height="30" width="40" style="background-color:#00FF00; width:100px; height:80px; display:inline-block; padding:20px; box-sizing:border-box;" />
   </a>
   <a href="https://linkedin.com/in/charendra910@rku.ac.in" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charendra910@rku.ac.in" height="30" width="40" style="background-color:#0077B5; padding:10px; border-radius:5px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charendra910@rku.ac.in" height="30" width="40" style="background-color:#00FF00; width:100px; height:80px; display:inline-block; padding:20px; box-sizing:border-box;" />
   </a>
   <a href="https://fb.com/+919956303809" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="+919956303809" height="30" width="40" style="background-color:#1877F2; padding:10px; border-radius:5px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="+919956303809" height="30" width="40" style="background-color:#00FF00; width:100px; height:80px; display:inline-block; padding:20px; box-sizing:border-box;" />
   </a>
   <a href="https://instagram.com/harendratharu0" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harendratharu0" height="30" width="40" style="background-color:#E4405F; padding:10px; border-radius:5px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harendratharu0" height="30" width="40" style="background-color:#00FF00; width:100px; height:80px; display:inline-block; padding:20px; box-sizing:border-box;" />
   </a>
 </p>
 
