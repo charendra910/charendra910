@@ -37,20 +37,19 @@
 
 </div>
 
-
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex;">
-  <a href="https://twitter.com/harendratharu4" target="blank" style="background-color: #1DA1F2; padding: 10px; border-radius: 5px; margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harendratharu4" height="30" width="40" />
+<p align="left" style="display: flex; gap: 10px;">
+  <a href="https://twitter.com/harendratharu4" target="blank" style="background-color: #1DA1F2; padding: 10px; border-radius: 5px; text-decoration: none; display: inline-block;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harendratharu4" height="30" width="30" />
   </a>
-  <a href="https://linkedin.com/in/charendra910@rku.ac.in" target="blank" style="background-color: #0077B5; padding: 10px; border-radius: 5px; margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charendra910@rku.ac.in" height="30" width="40" />
+  <a href="https://linkedin.com/in/charendra910@rku.ac.in" target="blank" style="background-color: #0077B5; padding: 10px; border-radius: 5px; text-decoration: none; display: inline-block;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charendra910@rku.ac.in" height="30" width="30" />
   </a>
-  <a href="https://fb.com/+919956303809" target="blank" style="background-color: #4267B2; padding: 10px; border-radius: 5px; margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="+919956303809" height="30" width="40" />
+  <a href="https://fb.com/+919956303809" target="blank" style="background-color: #4267B2; padding: 10px; border-radius: 5px; text-decoration: none; display: inline-block;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="+919956303809" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/harendratharu0" target="blank" style="background-color: #E4405F; padding: 10px; border-radius: 5px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harendratharu0" height="30" width="40" />
+  <a href="https://instagram.com/harendratharu0" target="blank" style="background-color: #E4405F; padding: 10px; border-radius: 5px; text-decoration: none; display: inline-block;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harendratharu0" height="30" width="30" />
   </a>
 </p>
 
